@@ -2,9 +2,14 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>PageA</title>
+	<title>Admin Page</title>
 </head>
 <body>
-	<h1>PageA</h1>
+	<center>
+		<h1>Admin Member Page</h1>
+		<hr>
+	</center>
+
+	
 </body>
 </html>
